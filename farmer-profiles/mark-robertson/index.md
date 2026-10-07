@@ -13,8 +13,8 @@ interview-date: 2025-11-20
 webpage-date: 2026-05-12
 repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/2
 layout: base
-header-image: images/white-text-loose-leaf-farm.png
-thumbnail: images/happy-mark.png
+header-image: images/white-text-loose-leaf-farm.jpg
+thumbnail: images/happy-mark.jpg
 summary: Loose Leaf Farm is a small farm in Albuquerque’s North Valley operated by Mark and Sarah Robertson. Their work focuses on biodiversity, soil health, and providing fresh produce to local restaurants, CSA members, and farmers markets.
 header-title:
 header-position: 0px
@@ -36,7 +36,7 @@ Mark Robertson is a 49 year old veteran of the United States Navy who has been f
 class="right"
 width="48%"
 caption="Mark Robertson holding freshly harvested garlic at one of the farming spaces he and his wife Sarah manage in Albuquerque’s North Valley."
-image-path="images/happy-mark.png"
+image-path="images/happy-mark.jpg"
 %}
 
 Before becoming a farmer, Mark served in the Navy during 9/11. After leaving the military, he used the GI Bill to return to school. At first, he planned to continue in engineering because of the electrical engineering training he had received while serving. Eventually, he switched to biology because he became more interested in environmental systems and how living organisms work together.
@@ -45,7 +45,7 @@ While studying biology, Mark realized that many careers connected to the field w
 
 
 {% include scrollybox/bg.html
-  image-path="images/loose-leaf-scroll.png"
+  image-path="images/loose-leaf-scroll.jpg"
   above-box-space = "100vh"
   below-box-space = "80vh"
   box-content=' “After figuring out that farming was… kind of soul-enlivening… you’re going to be happier, a lot happier.” - Mark Robertson'
@@ -72,9 +72,9 @@ Mark and Sarah are first generation farmers, so they had to figure out much of t
 
 
 {% assign images =
-"images/mark-sarah.png,
-images/produce-loose-leaf.png,
-images/farm-loose-leaf.png" | split: ','
+"images/mark-sarah.jpg,
+images/produce-loose-leaf.jpg,
+images/farm-loose-leaf.jpg" | split: ','
 %}
 
 {% include images/carousel.html

@@ -15,7 +15,7 @@ interview-class: GEOG-589, Fall 2025
 layout: base
 date: 2025-07-21
 header-image: images/green-house.jpeg
-thumbnail: images/Fred + Diana.png
+thumbnail: images/Fred + Diana.jpg
 summary: Learn how Fred Koster leveraged experimentation and community knowledge to successfully grow vegetables at Entropy Farms.
 header-title:
 header-position: 0px
@@ -45,7 +45,7 @@ Fred Koster is an expert in farming along the middle Rio Grande, with **45 years
 class="right"
 width="48%"
 caption="Fred Koster accompanied by wife Diana Koster. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)"
-image-path="images/Fred + Diana.png"
+image-path="images/Fred + Diana.jpg"
 %}
 
 Simply being born into farming wasn’t enough to foster a lifetime of work. Koster’s love for growing vegetables and supporting his community is the true fuel for his farming. **“I love to put a seed in the ground and up it comes. To be able to do this over and over again, year after year, was a big factor,”** he says. After following up to him with a phone call he shared that nothing was as rewarding as getting to educate kids who would come up to his stand asking where the lettuce and tomatoes in their hands came from.

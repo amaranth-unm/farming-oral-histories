@@ -22,11 +22,11 @@ header-caption: UNM students visit Chispas Farm, Fall 2025
     <span>Meet the farmers</span>
   </a>
   <a href="oral-histories" class="home-image-link">
-    <img src="farmer-profiles/ian-colburn/images/farm-of-song-market-booth.png" alt="Farm of Song produce at market">
+    <img src="farmer-profiles/ian-colburn/images/farm-of-song-market-booth.jpg" alt="Farm of Song produce at market">
     <span>Browse oral histories</span>
   </a>
   <a href="{{ site.baseurl }}about" class="home-image-link">
-    <img src="farmer-profiles/mark-robertson/images/produce-loose-leaf.png" alt="Fresh produce from Loose Leaf Farm">
+    <img src="farmer-profiles/mark-robertson/images/produce-loose-leaf.jpg" alt="Fresh produce from Loose Leaf Farm">
     <span>About the project</span>
   </a>
 </section>

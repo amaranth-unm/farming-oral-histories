@@ -13,7 +13,7 @@ repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistori
 webpage-class: SUST-364, Spring 2026 
 interview-class: GEOG-589, Fall 2025
 layout: base
-header-image: images/farm-of-song-header-purple-produce.png
+header-image: images/farm-of-song-header-purple-produce.jpg
 thumbnail: images/Farm of Song Ian.jpg
 summary: An oral hisotry of farming along the middle rio grande- Farm of Song
 header-title:
@@ -65,14 +65,14 @@ Farm of song is exploring its potential as a multi-usage space, with Ian speakin
 # **Community & Political Values**
 "My primary focus is on the broader food system in Albuquerque and the surrounding area, and we're wondering about how we get more land in production and all the moving pieces that takes.”(Ian Colburn)
 
-{% include images/figure.html class="right" width="60%" caption="Farm of Song growers hold fresh produce" image-path="images/farm-of-song-turnip.png" %}
+{% include images/figure.html class="right" width="60%" caption="Farm of Song growers hold fresh produce" image-path="images/farm-of-song-turnip.jpg" %}
 
 From Ian’s travels around New Mexico finding a sense of community and camaraderie mesh his business model with his ideology. Farm of Song is committed to building a nutrient-dense food for Albuquerque and the Sounding Communities. Embedding their values of inclusivity their farm is a welcoming space for multicultural, inter generational and queer communities. A place for celebrations, poetry readings, movie nights or a peaceful space to relax. 
 
 Although a small farm they do not compromise on their political values. Believing land should be controlled for the people instead of attaining wealth. He states he’s not sure how his farm can combat the big industry.
 
 {% include scrollybox/bg.html
-  image-path="images/farm-of-song-potatoes.png"
+  image-path="images/farm-of-song-potatoes.jpg"
   above-box-space = "100vh"
   below-box-space = "80vh"
   box-content='“[I] know that this sort of work is part of the peace economy that everyone here deserves." -Ian Colburn'
@@ -85,7 +85,7 @@ Geographically, Albuquerque is isolated in a high desert and semi-arid region ma
 class="left"
 width="100%"
 caption="Market booth at the Albuquerque Railyards Market, Farm of song Instagram"
-image-path="images/farm-of-song-market-booth.png"
+image-path="images/farm-of-song-market-booth.jpg"
 %}
 
 Farm of song values the pacing of the natural world and emulating the natural cycles of our environment in order to strengthen their organic growing practice, especially in conjunction with New Mexico's natural environment and cultural setting. Although Farm of Song is not certified organic they follow the same guidelines for pesticides. Their integrated pest management program uses beneficial pests to maintain the diverse ecosystem. They take pride in their minimal cover cropping in favor of the positive effects of weeds.
