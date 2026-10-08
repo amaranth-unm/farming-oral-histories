@@ -8,14 +8,18 @@
   <meta name="description" content="{{ page.summary | default: 'Xanthan is a free, open-source website template for digital scholarship, portfolios, and scrollytelling narratives.' | escape }}">
   <meta name="author" content="">
   <link rel="icon" href="{{site.baseurl}}/favicon.ico">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
 
   <!-- Open Graph for social sharing -->
   <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
   <meta property="og:description" content="{{ page.summary | default: 'Xanthan is a free, open-source website template for digital scholarship, portfolios, and scrollytelling narratives.' | escape }}">
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   {% if page.thumbnail or page.header-image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.dir }}{{ page.thumbnail | default: page.header-image }}">
+  {%- comment -%} image-path adds the project path and handles images/x.jpg or /assets/images/x.jpg {%- endcomment -%}
+  {% assign og_source = page.thumbnail | default: page.header-image %}
+  {% capture og_image %}{% include images/image-path.html image-path=og_source %}{% endcapture %}
+  {% assign og_image = og_image | strip %}
+  <meta property="og:image" content="{% unless og_image contains '://' %}{{ site.url }}{% endunless %}{{ og_image | uri_escape }}">
   {% endif %}
 
   <!-- Font Awesome for icons -->
