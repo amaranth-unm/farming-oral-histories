@@ -4,83 +4,53 @@ layout: base
 position: 4
 header-image: assets/images/loose leaf pond.jpeg
 header-title: About the Project
-header-subtitle: Oral histories from the Middle Rio Grande farming community.
+header-subtitle: ""
 header-height: 45vh
 header-position: center 60%
 header-zoom: cover
 header-tier: section
-team-members:
-  - title: Dr. Marygold Walsh-Dilley
-    summary: University of New Mexico
-    description: Associate Professor, Department of Geography and Environmental Studies
-    thumbnail: assets/images/profile/marygold-walsh-dilley.jpg
-    url: https://geography.unm.edu/people/faculty/faculty-profiles/marygold-walsh-dilley.html
-    email: marygoldwd@unm.edu
-    contact: true
-  - title: Casey Holland
-    summary: Bernalillo County - Grow the Growers
-    thumbnail: assets/images/profile/casey.jpg
-    url: https://quiviracoalition.org/casey-holland-radio/
-    email: chispasfarms@gmail.com
-  - title: Sayrah Namaste
-    summary: American Friends Service Committee - New Mexico
-    description: Co-Program Director
-    thumbnail: assets/images/profile/sayrah-namaste.jpg
-    url: https://afsc.org/index.php/profile/sayrah-namaste
-    email: newmexico@afsc.org
-  - title: Jacqueline Kelley-Cogdell
-    summary: University of New Mexico
-    description: MS Graduate Student, Department of Geography and Environmental Studies
-    thumbnail: assets/images/profile/jacqueline-kelley-cogdell.jpg
-    url: https://www.linkedin.com/in/jacqueline-kelley-cogdell-b3b450173
-    email: jkelleycogdell@unm.edu
-    contact: true
-  - title: Jessica Rowland
-    summary: University of New Mexico
-    description: Senior Lecturer II and Associate Director, Sustainability Studies Program
-    thumbnail: assets/images/profile/jessica.jpeg
-    url: https://sust.unm.edu/about/people/jessica-rowland.html
-    email: jrowland@unm.edu
 ---
 
-*UNM Food Systems Collaborative · Community Partners · Middle Rio Grande*
+### Overview
 
-This project collects personal histories of farming in New Mexico to preserve place-based knowledge, document the expertise of experienced growers, and connect students with their local foodshed and community.
+This project collects stories and personal histories of farming within the Middle Rio Grande region of New Mexico. It is a collaboration between the UNM Food Systems Collaborative, American Friends Service Committee-New Mexico, local farmers, and the Convergence Curriculum Working Group of the Transformation Network. The first seeds of the project were planted by local farmer Casey Holland during the Food Systems Summit in February 2025, and they remain a close collaborator.
 
-### Origins
+### Goals
 
-The project emerged from conversations among the UNM Food Systems Collaborative and community members involved in food systems work during a Spring 2025 workshop. Casey Holland first articulated the idea, and we continued to develop it collaboratively with our partners at the American Friends Service Committee - New Mexico and Chispas Farm.
+1) To capture and archive publicly diverse place-based knowledges that can support resilience in our local food system, document the stories and histories of experienced farmers, and share this knowledge with others in our community.
 
-### Community Goals
-
-The project aims to capture place-based knowledge that supports resilience in our local food system, document the knowledge of experienced farmers, and share that knowledge with others in exhibits, presentations, and materials most relevant to the farming community.
-
-### Student Learning
-
-Students interview experienced growers, archive the recordings, and build interpretive profiles that invite readers into the lived history of farming in central New Mexico. The project provides meaningful opportunities to learn about the local community and foodshed, and to practice community-engaged research methods.
+2) To provide opportunities for students to learn about and be connected with their local community and food system, and to learn and practice community-engaged research methods.
 
 ### Timeline
 
-- **February 2025.** At the UNM Food Systems Summit, Casey Holland and other practitioners identified storytelling as a key way that farmers learn from each other and build resilience to the challenges of farming. Casey suggested that UNM researchers and students could take an active role in collecting, archiving, and sharing these stories.
-- **February to August 2025.** Associate Professor Marygold Walsh-Dilley began developing a community-engaged project that students could undertake in her classes. The project network expanded to include Sayrah Namaste from AFSC-NM and UNM faculty Jessica Rowland and Tomek Falkowski.
-- **August to December 2025.** Students in GEOG 589 Qualitative Methods worked with community partners to design the study and collect the first round of oral histories, ultimately recording and transcribing 11 interviews with farmers in the region.
-- **January to May 2026.** The project team established the Oral Histories of Farming archive in the Center for Southwest Research at the University of New Mexico Libraries. Students in SUST 425 and UHON 301 used the oral histories to create farmer profiles highlighting local food heroes.
-- **Fall 2026.** A second round of oral history collection is planned in GEOG 589: Qualitative Methods.
-- **Spring 2026.** A second round of archiving and profile generation is planned in SUST 425.
+- **February 2025** -- UNM Food Systems Summit. Casey Holland and other practitioners identify storytelling as a key way that farmers learn from each other and build resilience to the challenges of farming. Casey suggests that UNM researchers and students could take an active role in collecting, archiving, and making available these stories.
 
-We hope to continue collecting oral histories and preparing materials for public use for years to come.
+- **February – August 2025** – Relationship building and project development. Associate Professor Marygold Walsh-Dilley, who teaches research methods in the Department of Geography & Environmental Studies, begins to develop a community-engaged project that could be undertaken by students in her classes and secures funding for the project through the <a href = "https://transformimw.unm.edu/">Intermountain West Transformation Network</a>. We build our network, bringing in Sayrah Namaste from AFSC-NM and Jessica Rowland and Tomek Falkowski, faculty at UNM. 
 
-### Method
+- **August – December 2025** – Study design and initial oral history collection. Students in the class GEOG 589 Qualitative Methods work with community partners to develop the project, ultimately collecting and transcribing 11 oral histories of farmers in the region. 
 
-Interviews use oral history techniques that encourage narrators to share personal stories, reflect on what motivates their farming work, and describe how they have adapted over time. The oral histories are recorded, transcribed, and archived at the UNM Digital Repository, attributed by name, because these stories belong to individual expertise and deserve acknowledgment.
+- **January – May 2026** – Project team establishes the <a href = "https://digitalrepository.unm.edu/oralhistoriesoffarming/">Oral Histories of Farming along the Middle Rio Grande </a> archive in the Digital Repository at the University of New Mexico Libraries. Students in SUST 425 and UHON 301 use the oral histories to generate Farmer Profiles highlighting local food heroes.
 
-## Team Members
+- **Fall 2026** – second round of oral histories collection in GEOG 589: Qualitative Methods
 
-{% include nav/team-list.html members=page.team-members %}
+- **Spring 2027** – second round of archiving and profile generation in SUST 425
 
-{% include images/figure.html
-class="center"
-width="48%"
-caption=""
-image-path="assets/images/tn-logo.png"
-%}
+We hope to continue with the collection of oral histories and processing of materials for public use for years to come!
+
+
+### Method and Citation
+
+We use oral history as method. Oral history prioritizes the stories and voice of the person being interviewed, which we call the narrator. Interviewers are prepared with a loose set of initial questions, but the interview is directed by the priorities, interests, and stories of the narrator. We want to hear and prioritize the voices of our local food heroes.
+
+After the interview, interviewers transcribe and loosely edit the transcript for readability. The transcript is returned to the narrator, who can request further edits if they desire. Approved transcripts are included in the archive, along with the original audio. These archives are public. Please recognize the narrator and interviewer as the co-authors of the oral history transcript.
+
+
+Suggested citation for individual oral history transcript:
+
+Holland, Casey and Olivia Kelly. 2026. “Casey Holland”. *Oral Histories of Farming Along the Middle Rio Grande*. UNM Digital Repository. https://digitalrepository.unm.edu/oralhistoriesoffarming/6/.
+
+Suggested citation for individual farmer profile:
+
+Holland, Casey, Olivia Kelley, Arwen R. Rocha, and Eric Truong. 2026. "Profile of Casey Holland.” *Oral Histories of Farming Along the Middle Rio Grande.* https://oral-histories-mrg.github.io/oral-histories-of-farming/farmer-profiles/casey-holland/
+
+

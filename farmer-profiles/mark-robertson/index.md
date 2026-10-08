@@ -5,13 +5,13 @@ farmer-sort-name: Robertson, Mark
 farm: Loose Leaf Farm
 interviewer: Esther Hewitt
 webpage-authors: 
-    - tbd 
-    - tbd
+    - Maggie Berman
+    - Noah Lujan 
 webpage-class: SUST-364, Spring 2026
 interview-class: GEOG-589, Fall 2025
 interview-date: 2025-11-20
 webpage-date: 2026-05-12
-repository-link: https://digitalrepository.unm.edu/cgi/siteview.cgi//oralhistoriesoffarming/2
+repository-link: https://digitalrepository.unm.edu/oralhistoriesoffarming/2/
 layout: base
 header-image: images/white-text-loose-leaf-farm.jpg
 thumbnail: images/happy-mark.jpg

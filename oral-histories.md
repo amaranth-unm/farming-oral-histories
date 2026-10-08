@@ -8,7 +8,7 @@ summary: ""
 thumbnail: assets/images/Goat.jpg
 header-image: assets/images/students-chispas.jpg
 header-title: Oral Histories
-header-subtitle: Personal histories of farming in the Middle Rio Grande.
+header-subtitle: Oral history transcripts and audio are permanently preserved in the <a href = "https://digitalrepository.unm.edu/oralhistoriesoffarming/">Oral Histories of Farming along the Middle Rio Grande Collection</a> in the UNM Digital Repository.
 header-height: 45vh
 header-position: center center
 header-zoom: cover
